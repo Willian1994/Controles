@@ -1,0 +1,10 @@
+C:\Users\wirioliveira\source\repos\ControlesForm\Parte012\bin\Debug\Parte012.exe.config
+C:\Users\wirioliveira\source\repos\ControlesForm\Parte012\bin\Debug\Parte012.exe
+C:\Users\wirioliveira\source\repos\ControlesForm\Parte012\bin\Debug\Parte012.pdb
+C:\Users\wirioliveira\source\repos\ControlesForm\Parte012\obj\Debug\Parte012.csproj.AssemblyReference.cache
+C:\Users\wirioliveira\source\repos\ControlesForm\Parte012\obj\Debug\Parte012.Form1.resources
+C:\Users\wirioliveira\source\repos\ControlesForm\Parte012\obj\Debug\Parte012.Properties.Resources.resources
+C:\Users\wirioliveira\source\repos\ControlesForm\Parte012\obj\Debug\Parte012.csproj.GenerateResource.cache
+C:\Users\wirioliveira\source\repos\ControlesForm\Parte012\obj\Debug\Parte012.csproj.CoreCompileInputs.cache
+C:\Users\wirioliveira\source\repos\ControlesForm\Parte012\obj\Debug\Parte012.exe
+C:\Users\wirioliveira\source\repos\ControlesForm\Parte012\obj\Debug\Parte012.pdb
